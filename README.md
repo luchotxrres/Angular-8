@@ -4,7 +4,8 @@
 * node (version utilizada 10.16.0)
 * Angular CLI (Version utilizada 8.1.0)
  
-## Instalar dependencias `npm i`
+## Instalar dependencias 
+`npm iinstall`
 -------------
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.1.0.
