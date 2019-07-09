@@ -1,10 +1,9 @@
 # Ejercicio
 
 # Requisitos para inicializar el Proyecto:
-* node
-* npm
-* Angular CLI
-
+* node (version utilizada 10.16.0)
+* Angular CLI (Version utilizada 8.1.0)
+ 
 ## Instalar dependencias `npm i`
 -------------
 
